@@ -18,12 +18,13 @@
   align-items: center;
   justify-content: space-between;
   width: 20%;
+  margin: auto;
 }
 
 .book-nav {
   display: flex;
   align-items: center;
-  padding: 10px 18px;
+  padding: 10px 50px;
   background: #2d9386;
   border-color: #2d9386;
   color: white;

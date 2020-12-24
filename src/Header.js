@@ -13,10 +13,12 @@ function Header() {
                 <p>OFFERS</p>
                 <p>EXPERIENCE</p>
                 <p>GALLERY</p>
-            </div>
-            <div>
                 <button className="book-nav">CHECK AVAILABILITY</button>
             </div>
+
+            {/* <div>
+                <button className="book-nav">CHECK AVAILABILITY</button>
+            </div> */}
 
         </div>
     )
